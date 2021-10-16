@@ -19,4 +19,4 @@ __Tech Stack__
      - Python
      - COVID 19 API
      
-![Sampple](/sample.png)
+![Screenshot](/covid.png)
